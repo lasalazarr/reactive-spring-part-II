@@ -46,3 +46,4 @@ projectFilesBackup
 target
 .externalToolBuilders
 maven-eclipse.xml
+!/target/Manifest.json
